@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/laurenwdunlap/tf-std/_apis/build/status/DemoOrgYay.ContosoAir?branchName=master)](https://dev.azure.com/laurenwdunlap/tf-std/_build/latest?definitionId=100&branchName=master)
 
 # Microsoft.Github CI Demo
 
